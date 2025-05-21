@@ -1,4 +1,4 @@
-![logo](https://github.com/Tryhackme-Lab-Links/hacker.gif)
+![logo](https://raw.githubusercontent.com/abhigyan31/Tryhackme-Lab-Links/main/hacker.gif)
 
 
 Intro Rooms: <br>
