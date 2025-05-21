@@ -383,4 +383,4 @@ https://tryhackme.com/room/revilcorp <br>
 https://tryhackme.com/room/sudovulnsbof <br>
 https://tryhackme.com/room/sudovulnsbypass <br>
 
-<p align="left"> <img src="https://github.com/abhigyan31/Tryhackme-Lab-Links/blob/main/hacker.gif alt="hacker" /> </p>
+<p align="left"> <img src="https://github.com/abhigyan31/Tryhackme-Lab-Links/blob/main/hacker.gif /> </p>
