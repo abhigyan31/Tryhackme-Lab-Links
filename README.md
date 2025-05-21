@@ -1,3 +1,6 @@
+![logo](https://github.com/abhigyan31/Tryhackme-Lab-Links/hacker.gif.JPG)
+
+
 Intro Rooms: <br>
 https://tryhackme.com/room/hello <br>
 https://tryhackme.com/room/howtousetryhackme <br>
@@ -382,5 +385,3 @@ https://tryhackme.com/room/linuxfunctionhooking <br>
 https://tryhackme.com/room/revilcorp <br>
 https://tryhackme.com/room/sudovulnsbof <br>
 https://tryhackme.com/room/sudovulnsbypass <br>
-
-<p align="left"> <img src="https://github.com/abhigyan31/Tryhackme-Lab-Links/hacker.gif /> </p>
