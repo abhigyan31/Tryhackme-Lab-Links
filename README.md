@@ -239,7 +239,7 @@ https://tryhackme.com/room/breakit <br>
 https://tryhackme.com/room/willow <br>
 https://tryhackme.com/room/marketplace<br> 
 https://tryhackme.com/room/nax <br>
-https://tryhackme.com/room/mindgame<br>s 
+https://tryhackme.com/room/mindgames<br>
 https://tryhackme.com/room/anonymous <br>
 https://tryhackme.com/room/blog <br>
 https://tryhackme.com/room/wonderland<br> 
