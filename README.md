@@ -382,3 +382,5 @@ https://tryhackme.com/room/linuxfunctionhooking <br>
 https://tryhackme.com/room/revilcorp <br>
 https://tryhackme.com/room/sudovulnsbof <br>
 https://tryhackme.com/room/sudovulnsbypass <br>
+
+<img src="[https://github.com/abhigyan31/Tryhackme-Lab-Links/blob/main/hacker.gif" alt="hacker" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
