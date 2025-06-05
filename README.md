@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/abhigyan31/Tryhackme-Lab-Links/main/hacker.gif)
 
 
-Intro Rooms: <br>
+Introoo Rooms: <br>
 https://tryhackme.com/room/hello <br>
 https://tryhackme.com/room/howtousetryhackme <br>
 https://tryhackme.com/room/gettingstarted <br>
@@ -12,7 +12,7 @@ https://tryhackme.com/room/beginnerpathintro <br>
 https://tryhackme.com/room/startingoutincybersec <br>
 https://tryhackme.com/room/introtoresearch <br>
 
-Basics Rooms: <br>
+Basicsss Rooms: <br>
 https://tryhackme.com/room/linux2 <br>
 https://tryhackme.com/room/linuxmodules <br>
 https://tryhackme.com/room/linuxfundamentalspart1 <br>
