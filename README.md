@@ -1,7 +1,7 @@
 ![logo](https://raw.githubusercontent.com/abhigyan31/Tryhackme-Lab-Links/main/hacker.gif)
 
 
-Introoo Rooms: <br>
+Intro Rooms: <br>
 https://tryhackme.com/room/hello <br>
 https://tryhackme.com/room/howtousetryhackme <br>
 https://tryhackme.com/room/gettingstarted <br>
@@ -12,7 +12,7 @@ https://tryhackme.com/room/beginnerpathintro <br>
 https://tryhackme.com/room/startingoutincybersec <br>
 https://tryhackme.com/room/introtoresearch <br>
 
-Basicsss Rooms: <br>
+Basics Rooms: <br>
 https://tryhackme.com/room/linux2 <br>
 https://tryhackme.com/room/linuxmodules <br>
 https://tryhackme.com/room/linuxfundamentalspart1 <br>
@@ -141,6 +141,7 @@ https://tryhackme.com/room/malresearching <br>
 https://tryhackme.com/room/mma <br>
 https://tryhackme.com/room/c2carnage<br> 
 https://tryhackme.com/room/dunklematerieptxc9<br> 
+
 Steganography <br>
 https://tryhackme.com/room/ccstego<br> 
 https://tryhackme.com/room/cicada3301vol1 <br>
@@ -148,6 +149,7 @@ https://tryhackme.com/room/musicalstego <br>
 https://tryhackme.com/room/madness <br>
 https://tryhackme.com/room/psychobreak <br>
 https://tryhackme.com/room/unstabletwin <br>
+
 PrivEsc: <br>
 https://tryhackme.com/room/linprivesc<br> 
 https://tryhackme.com/room/linuxprivesc <br>
@@ -155,6 +157,7 @@ https://tryhackme.com/room/linuxprivescarena <br>
 https://tryhackme.com/room/windows10privesc <br>
 https://tryhackme.com/room/windowsprivescarena <br>
 https://tryhackme.com/room/linuxagency <br>
+
 Windows: <br>
 https://tryhackme.com/room/windowsfundamentals1xbx <br>
 https://tryhackme.com/room/windowsfundamentals2x0x <br>
@@ -172,6 +175,7 @@ https://tryhackme.com/room/postexploit <br>
 https://tryhackme.com/room/ustoun <br>
 https://tryhackme.com/room/enterprise <br>
 https://tryhackme.com/room/raz0rblack <br>
+
 PCAP Analysis <br>
 https://tryhackme.com/room/h4cked <br>
 https://tryhackme.com/room/c2carnage <br>
